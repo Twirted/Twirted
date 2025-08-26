@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack em início de carreira  
 📚 Formado em **Análise e Desenvolvimento de Sistemas**  
-🎨 Apaixonado por **design** e **desenvolvimento web**  
+🎨 Apaixonado por **desenvolvimento web** e **design**  
 
 ---
 
