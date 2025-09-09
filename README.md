@@ -19,6 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
