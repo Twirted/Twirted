@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Henrique!
 
-💻 Desenvolvedor Full Stack em início de carreira  
+💻 Desenvolvedor Full Stack em busca de novas oportunidades  
 📚 Formado em **Análise e Desenvolvimento de Sistemas**  
 🎨 Apaixonado por **Desenvolvimento Web** e **Design**  
 
